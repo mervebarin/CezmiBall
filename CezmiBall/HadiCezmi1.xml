@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<board level="1">
+	<ball x="4.3" y="4.5" xVelocity="10" yVelocity="10"/>
+	<cezmi1 x="5.3" y="500" score="1"/>
+	<cezmi2 x="15.1" y="500" score="3"/>
+	<cezeryes>
+		<cezerye x="4" y="5" time="0.5"/>
+	</cezeryes>
+	<gizmos>
+		<squareTakoz x="7" y="6"/>
+		<triangleTakoz x="13" y="5" orientation="270"/>
+		<firildak x="10" y="12" angle="135"/>
+		<leftTokat x="11" y="6" orientation="0"/>
+		<rightTokat x="5" y="7" orientation="0"/>
+	</gizmos>
+	<keys>
+		<key1left key="A"/>
+		<key1right key="D"/>
+		<key2left key="Left"/>
+		<key2right key="Right"/>
+		<key1lefttokat key="E"></key1lefttokat>
+		<key1righttokat key="R"></key1righttokat>
+		<key2lefttokat key="O"></key2lefttokat>
+		<key2righttokat key="P"></key2righttokat></keys>
+</board>
