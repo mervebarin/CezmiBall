@@ -160,7 +160,7 @@ public class Cezerye{
 			if(effect == 0){
 				if(begin){
 					//Grow self gizmos
-					System.out.println("CASE  O DAYIM");
+					//System.out.println("CASE  O DAYIM");
 					long x = System.currentTimeMillis();
 
 
@@ -185,7 +185,7 @@ public class Cezerye{
 			}
 			if(effect == 1){
 				if(begin){
-					System.out.println("CASE  1 DAYIM");
+					//System.out.println("CASE  1 DAYIM");
 					//Small Gizmos 
 					a = self;
 					b = target;
@@ -209,7 +209,7 @@ public class Cezerye{
 			if(effect == 2){
 				if(begin){
 					a = target;
-					System.out.println("CASE  2 DAYIM");
+					//System.out.println("CASE  2 DAYIM");
 					//Freeze opponent cezmi
 					target.stopCezmi();
 					begin =false;

@@ -131,7 +131,7 @@ public class ApplicationWindow extends JFrame{
 					File selectedFile = fc.getSelectedFile();
 					inputFile = selectedFile.getName();
 				}
-				System.out.println("MERT");
+				//System.out.println("MERT");
 				String schemaFile = "C:\\Users\\Mert\\Desktop\\cezmiFinal4\\cezmi.xsd";
 				Source xmlFile = new StreamSource(new File(inputFile));
 				SchemaFactory schemaFactory = SchemaFactory					//http://stackoverflow.com/questions/15732/whats-the-best-way-to-validate-an-xml-file-against-an-xsd-file

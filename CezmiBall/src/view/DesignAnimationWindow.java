@@ -1267,7 +1267,7 @@ public class DesignAnimationWindow extends JPanel{
 								@Override
 								protected Boolean doInBackground() throws Exception {
 									Tokat t =tokatList.get(a);
-									System.out.println("burdayým");
+									//System.out.println("burdayým");
 
 									while(t.angle!=-90){
 										t.rotateL90();	
@@ -1289,7 +1289,7 @@ public class DesignAnimationWindow extends JPanel{
 								@Override
 								protected Boolean doInBackground() throws Exception {
 									Tokat t =tokatList.get(a);
-									System.out.println("burdayým");
+									//System.out.println("burdayým");
 
 									while(t.angle!=0){
 										t.rotateML90();	
@@ -1330,7 +1330,7 @@ public class DesignAnimationWindow extends JPanel{
 								@Override
 								protected Boolean doInBackground() throws Exception {
 									Tokat t =tokatList.get(a);
-									System.out.println("burdayým");
+									//System.out.println("burdayým");
 
 									while(t.angle!=90){
 										t.rotate90();	
@@ -1353,7 +1353,7 @@ public class DesignAnimationWindow extends JPanel{
 								@Override
 								protected Boolean doInBackground() throws Exception {
 									Tokat t =tokatList.get(a);
-									System.out.println("burdayým");
+									//System.out.println("burdayým");
 
 									while(t.angle!=0){
 										t.rotateM90();	
@@ -1394,7 +1394,7 @@ public class DesignAnimationWindow extends JPanel{
 								@Override
 								protected Boolean doInBackground() throws Exception {
 									Tokat t =tokatList.get(a);
-									System.out.println("burdayým");
+									//System.out.println("burdayým");
 
 									while(t.angle!=-90){
 										t.rotateL90();	
@@ -1417,7 +1417,7 @@ public class DesignAnimationWindow extends JPanel{
 								@Override
 								protected Boolean doInBackground() throws Exception {
 									Tokat t =tokatList.get(a);
-									System.out.println("burdayým");
+									//System.out.println("burdayým");
 
 									while(t.angle!=0){
 										t.rotateML90();	
@@ -1457,7 +1457,7 @@ public class DesignAnimationWindow extends JPanel{
 								@Override
 								protected Boolean doInBackground() throws Exception {
 									Tokat t =tokatList.get(a);
-									System.out.println("burdayým");
+									//System.out.println("burdayým");
 
 									while(t.angle!=90){
 										t.rotate90();	
@@ -1479,7 +1479,7 @@ public class DesignAnimationWindow extends JPanel{
 								@Override
 								protected Boolean doInBackground() throws Exception {
 									Tokat t =tokatList.get(a);
-									System.out.println("burdayým");
+									//System.out.println("burdayým");
 
 									while(t.angle!=0){
 										t.rotateM90();	

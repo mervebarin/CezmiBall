@@ -270,7 +270,7 @@ public class BouncingBall {
 		{
 			y = 240;
 			vy = -vy;
-				System.err.println("HELLO BACIM");
+				//System.err.println("HELLO BACIM");
 			if(x < 240){
 				if(tc){
 					System.out.println("Score 3");
